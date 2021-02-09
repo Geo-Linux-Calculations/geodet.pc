@@ -7,5 +7,6 @@ Fortran 77 - různé zbytky zdrojových kódů
         http://knihovna.vugtk.cz/record/25137 
     * Knihovna základních procedur GEOLIB-PC
         https://knihovna.vugtk.cz/record/42447
+    * gt4lsa --- Dává transformaci Givens pro úpravu nejmenších čtverců
 
 * Implementace Givensovy transformace pro vyrovnání měření zprostředkujících s řídkou maticí soustavy rovnic oprav
